@@ -1,0 +1,5 @@
+part-6
+https://github.com/SteinOveHelset/wey/releases/tag/part-6
+
+Liking posts - Build a Full-Stack Social Network with Django and Vue 3 | Part 6
+https://www.youtube.com/watch?v=eDAAhoYmSN0&list=PLpyspNLjzwBlobEvnZzyWP8I-ORQcq4IO&index=7

@@ -1,0 +1,5 @@
+Chatting - Build a Full-Stack Social Network with Django and Vue 3 | Part 8
+https://www.youtube.com/watch?v=ab27Qa4zbgg&list=PLpyspNLjzwBlobEvnZzyWP8I-ORQcq4IO&index=8
+
+part-8
+https://github.com/SteinOveHelset/wey/releases/tag/part-8

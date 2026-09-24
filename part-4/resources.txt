@@ -1,0 +1,5 @@
+Profiles - Build a Full-Stack Social Network with Django and Vue 3 | Part 4
+https://www.youtube.com/watch?v=2LMvS0orR3Q&list=PLpyspNLjzwBlobEvnZzyWP8I-ORQcq4IO&index=4
+
+part-4
+https://github.com/SteinOveHelset/wey/releases/tag/part-4

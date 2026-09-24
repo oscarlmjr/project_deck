@@ -1,0 +1,6 @@
+part-5
+Assets
+https://github.com/SteinOveHelset/wey/releases/tag/part-5
+
+Django Many to Many friends relationship
+https://stackoverflow.com/questions/12684271/django-many-to-many-friends-relationship
