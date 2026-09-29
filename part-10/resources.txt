@@ -1,0 +1,5 @@
+Image attachments - Build a Full-Stack Social Network with Django and Vue 3 | Part 10
+https://www.youtube.com/watch?v=9dke4DFry18&list=PLpyspNLjzwBlobEvnZzyWP8I-ORQcq4IO&index=10
+
+part-10
+https://github.com/SteinOveHelset/wey/releases/tag/part-10

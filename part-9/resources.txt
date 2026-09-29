@@ -1,2 +1,6 @@
+
+Trends/Avatar - Build a Full-Stack Social Network with Django and Vue 3 | Part 9
+https://www.youtube.com/watch?v=uhIiy1-wfC0&list=PLpyspNLjzwBlobEvnZzyWP8I-ORQcq4IO&index=9
+
 part-9
 https://github.com/SteinOveHelset/wey/releases/tag/part-9

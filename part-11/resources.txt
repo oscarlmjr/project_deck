@@ -1,0 +1,7 @@
+
+Notifications - Build a Full-Stack Social Network with Django and Vue 3 | Part 11
+https://www.youtube.com/watch?v=D52uG3_tj7E&list=PLpyspNLjzwBlobEvnZzyWP8I-ORQcq4IO&index=12
+
+part-11
+https://github.com/SteinOveHelset/wey/releases/tag/part-11
+
