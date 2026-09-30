@@ -1,0 +1,5 @@
+Friend suggestions - Build a Full-Stack Social Network with Django and Vue 3 | Part 12
+https://www.youtube.com/watch?v=KhqUOrFUbfs&list=PLpyspNLjzwBlobEvnZzyWP8I-ORQcq4IO&index=13
+
+part-12
+https://github.com/SteinOveHelset/wey/releases/tag/part-12
