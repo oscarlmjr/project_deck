@@ -1,0 +1,5 @@
+Privacy - Build a Full-Stack Social Network with Django and Vue 3 | Part 13
+https://www.youtube.com/watch?v=ViP2mDGcC2k&list=PLpyspNLjzwBlobEvnZzyWP8I-ORQcq4IO&index=14
+
+part-13
+https://github.com/SteinOveHelset/wey/releases/tag/part-13
