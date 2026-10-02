@@ -1,0 +1,7 @@
+Delete/Report posts - Build a Full-Stack Social Network with Django and Vue 3 | Part 14
+https://www.youtube.com/watch?v=NOD8Ke9gMSA&list=PLpyspNLjzwBlobEvnZzyWP8I-ORQcq4IO&index=15
+
+part-14
+https://github.com/SteinOveHelset/wey/releases/tag/part-14
+
+heroicons.com
